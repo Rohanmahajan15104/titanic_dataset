@@ -21,6 +21,7 @@ This project analyzes the Titanic dataset using Python. The goal is to explore t
 📂 Project Structure
 
 Titanic_Dataset_Analysis/
+
 │── Titanic_Analysis.ipynb
 │── Titanic-Dataset.csv
 │── README.md
