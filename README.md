@@ -41,4 +41,5 @@ Titanic_Dataset_Analysis/
 The dataset used is the Titanic dataset, commonly available on Kaggle.
 
 👨‍💻 Author
+
 Developed as part of the weintern Pvt Ltd Internship to demonstrate data analysis, data cleaning, exploratory data analysis (EDA), and data visualization using the Titanic dataset with Python, Pandas, Matplotlib, and Seaborn.
