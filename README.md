@@ -19,6 +19,7 @@ This project analyzes the Titanic dataset using Python. The goal is to explore t
 - Seaborn
 
 📂 Project Structure
+
 Titanic_Dataset_Analysis/
 │── Titanic_Analysis.ipynb
 │── Titanic-Dataset.csv
@@ -36,6 +37,7 @@ Titanic_Dataset_Analysis/
 - Correlation heatmap
 
 📚 Dataset
+
 The dataset used is the Titanic dataset, commonly available on Kaggle.
 
 👨‍💻 Author
